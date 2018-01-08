@@ -5,20 +5,15 @@
 ## Table of Contents
 
 * [Links](#Links)
-
 * [Summary](#Summary)
-
 * [Design](#Design)  
-
 * [Feedback](#Feedback)
-
 * [Resources](#Resources)
 
 
 ## Links
 
 - [Initial Version](https://public.tableau.com/profile/ioanniskbreier#!/vizhome/who_life_expect_story_ver1/EuropeanStory)  
-
 - [Final Version](https://public.tableau.com/profile/ioanniskbreier#!/vizhome/who_life_expect_story_final/EuropeanStory)
 
 ## Summary

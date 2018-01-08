@@ -22,7 +22,7 @@ In this visualization , I compare the  life expectancy at birth developement in 
 
 I use the average life expectancy difference of the region over this time period as the key comparison metric and summarize and highlight the main differences and main observations for each region. Additionally I highlight the countries with the highest and lowest change in their life expectancy.
 
-Most regions (except North America) have had a much higher developement in life expectancy starting from lower levels than Europe and Central Asia. The life expectancy developemnt of regions and individual countries are telling of ther developemnt in general over the last 5 decades.
+Most regions (except North America) have had a much higher developement in life expectancy starting from lower levels than Europe and Central Asia. The life expectancy developemnt of regions and individual countries are revealingof their general developemnt and story  over the last 5 decades.
 
 The data and regional divisions are from the World Health Organization.
 
@@ -45,14 +45,14 @@ After receiving feedback I realized that I could condense the information and ma
  
 ### Version 3
 
-After getting feedback thinking more about the plot , I made the following changes:
+After getting feedback and further thinking about the visualization , I made the following changes:
 
 - Added the indvidual country timelines as a backgorund to the average timeline to give more context and enrich the information.  
-- Included a  tab on the top of each with the key finding that I wanted the user to notice
+- Included a  tab on the top of each with the key finding that I wanted the user to notice.
 - Include best and worst performing countries on both charts.
-- Included the countrie time series in the background.
+- Included the country time series in the background.
 - Created a slope chart with the change in ranks to illustrate the regional performance of countries.
-- Impoved color scheme and line thickness to be more readable.
+- Impoved the color scheme and line thickness to be more readable.
 - Added more explicit titles.
 
 <img src='screenshots/version3.png' width =700 height 700 /img>
@@ -62,9 +62,9 @@ After getting feedback thinking more about the plot , I made the following chang
 
 After receiving the feedback I made the following changes:
 
-- Removed the slope graph to simplfy the interface and make the visualization more focused.
+- Removed the slope graph to simplify the interface and make the visualization more focused.
 - Added istructions at the top regarding the interaction. 
-- Added a main story as annotation to each line chart  to give emphasis to the key findings and gide the user.
+- Added a main story as annotation to each line chart  to give emphasis to the key findings and guide the user.
 - I omited the choice to change the time interval as it added complexity and made the annotation of the regions  not possible.
 - Added start and end annotation to individual countries.
 - Increased size of dropdown header to make it more visible.
@@ -91,7 +91,7 @@ These where the main questions (The user could answer any they wanted):
 
 ### Version 1 
 
- - The information contained in the chart the could be condensed to a smaller space.
+ - The information contained in the chart could be condensed to a smaller space.
  - There is a lot of information that is repeated in both charts.
  
 ### Version 2
